@@ -1000,8 +1000,5 @@
     { "trigger": "xprofile_delete_activity", "contents": "xprofile_delete_activity(${1:args = ''})" },
     { "trigger": "xprofile_register_activity_action", "contents": "xprofile_register_activity_action(${1:key}, ${2:value})" },
     { "trigger": "bp_xprofile_new_avatar_activity", "contents": "bp_xprofile_new_avatar_activity()" },
-    { "trigger": "ck_generator_is_constant", "contents": "ck_generator_is_constant(${1:token})" },
-    { "trigger": "ck_generator_dump", "contents": "ck_generator_dump(${1:state}, ${2:token})" },
-    { "trigger": "ck_generator_strip", "contents": "ck_generator_strip(${1:value})" }
   ]
 }
