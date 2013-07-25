@@ -9,6 +9,8 @@
 http://tanc.me/blog/2011/drupal-autocomplete-file-sublime-text-2
 
 ## Changelog ##
+### 7/25/2013 ###
+* Updating from Trunk
 
 ### 1/28/2013 ###
 
